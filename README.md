@@ -6,12 +6,13 @@
 - 🌱 **Always learning new technologies to grow up**
 
 ###
-<img align="right" height="200" src="https://i.pinimg.com/564x/9c/95/29/9c9529337d92620d9ec913e379bab28f.jpg"  />
+
+<img align="right" height="300" src="https://i.pinimg.com/564x/d5/7a/5e/d57a5e7a824129f11fea640817232bc2.jpg"  />
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href = "mailto:miguelandreybs@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
