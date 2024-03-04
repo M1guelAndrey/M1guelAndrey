@@ -4,7 +4,7 @@
 
 - 👨‍💻 **Computer Engineering Student at UPE (Universidade de Pernambuco)**
 - 🌱 **Always learning new technologies to grow up**
-- 📩 **miguelandreybs@gmail.com**
+- 📩 **Contact email: miguelandreybs@gmail.com**
 
 ###
 
